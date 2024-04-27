@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\BeeTechnica Internships\\Web Api\\WebApi-Angular\\API\\Contactly\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F9D11F-3DA1-4431-B992-1EABA2D3A72E}|Contactly.csproj|e:\\beetechnica internships\\web api\\webapi-angular\\api\\contactly\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F9D11F-3DA1-4431-B992-1EABA2D3A72E}|Contactly.csproj|solutionrelative:controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F9D11F-3DA1-4431-B992-1EABA2D3A72E}|Contactly.csproj|e:\\beetechnica internships\\web api\\webapi-angular\\api\\contactly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F9D11F-3DA1-4431-B992-1EABA2D3A72E}|Contactly.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F9D11F-3DA1-4431-B992-1EABA2D3A72E}|Contactly.csproj|e:\\beetechnica internships\\web api\\webapi-angular\\api\\contactly\\models\\addcontactrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F9D11F-3DA1-4431-B992-1EABA2D3A72E}|Contactly.csproj|solutionrelative:models\\addcontactrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddContactRequestDTO.cs",
+              "DocumentMoniker": "E:\\BeeTechnica Internships\\Web Api\\WebApi-Angular\\API\\Contactly\\Models\\AddContactRequestDTO.cs",
+              "RelativeDocumentMoniker": "Models\\AddContactRequestDTO.cs",
+              "ToolTip": "E:\\BeeTechnica Internships\\Web Api\\WebApi-Angular\\API\\Contactly\\Models\\AddContactRequestDTO.cs",
+              "RelativeToolTip": "Models\\AddContactRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T10:58:46.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "E:\\BeeTechnica Internships\\Web Api\\WebApi-Angular\\API\\Contactly\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContactsController.cs",
+              "ToolTip": "E:\\BeeTechnica Internships\\Web Api\\WebApi-Angular\\API\\Contactly\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "Controllers\\ContactsController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAIwDYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T10:43:13.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\BeeTechnica Internships\\Web Api\\WebApi-Angular\\API\\Contactly\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\BeeTechnica Internships\\Web Api\\WebApi-Angular\\API\\Contactly\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAgAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T10:40:04.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
